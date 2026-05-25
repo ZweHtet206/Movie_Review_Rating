@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "movie": "Interstellar",
+    "name": "Zwe",
+    "score": 5,
+    "comment": "Amazing story and beautiful visuals."
+  },
+  {
+    "id": 2,
+    "movie": "Your Name",
+    "name": "Student",
+    "score": 4,
+    "comment": "Emotional and easy to enjoy."
+  }
+]
